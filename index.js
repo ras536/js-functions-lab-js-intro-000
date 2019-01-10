@@ -1,3 +1,7 @@
+function test() {
+  return null;
+}
+
 function happyHolidays() {
   returns "Happy holidays!";
 }
